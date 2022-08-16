@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello world
+=======
+hello world,
+this is bin.
+some edits again
+>>>>>>> aaeface3823a310f8f2ef9af8f2df24df342961b
